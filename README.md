@@ -10,7 +10,7 @@
 </p>
    
 <h2 align="center">Github Activity📊 !! 😊 </h2>   
-   
+   [![An image of @addixit1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/addixit1)](https://holopin.io/@addixit1)
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=addixit1&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
